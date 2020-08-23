@@ -4,9 +4,9 @@
     "slug": "weather-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/weather.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/weather-splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/weather.png"
     },
     "description": "Weather app built with React Native",
     "githubUrl": "https://github.com/aidensung/weather-mobile"
